@@ -7,7 +7,7 @@ Welcome to my GitHub! I’m **Jyoti Tiwari** (https://github.com/JyotiT31), a **
 
 ## 📁 **Overview**
 
-I’m deeply interested in leveraging **Data Analytics** ****. My work focuses on:
+I’m deeply interested in **Data Analytics** ****. My work focuses on:
 
 * 🧹 **Data Cleaning** & **Transformation (Pandas and Numpy)**
 * 📈 **Data Visualization** **(Matplotlib,Seaborn,Plotly)**
