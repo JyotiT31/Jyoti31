@@ -1,4 +1,4 @@
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/68dcbce6-f7d1-4a50-b879-adc997e93d2d" />
+
 # 👨‍💻 **Jyoti Tiwari – GitHub Profile Overview**
 
 Welcome to my GitHub! I’m **Jyoti Tiwari** (https://github.com/JyotiT31), a **Data Analyst** and a **passionate, persistent learner** at the intersection of **Analytics** and **Development**.
