@@ -41,7 +41,7 @@ I’m open to **collaborative opportunities**, **internships**, and **full-time 
 ## 📘 **In Progress**
 
 * 🧩 Certification in **Techmaster Program in Data Analytics** *(coming soon!)*
-* 🧩 Microsoft Certification in Power BI
+* 🧩 **Microsoft Certification in Power BI**
 
 ---
 
