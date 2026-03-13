@@ -29,6 +29,8 @@ I’m open to **collaborative opportunities**, **internships**, and **full-time 
 
 ### ✅ **Core Certifications**
 
+* **Microsoft Certified: Power BI Data Analyst Associate**
+*  Techmaster Certificate Program in Data Analytics from Skillup Online
 * Deloitte Australia - Data Analytics Job Simulation*
 * Big Data 101 from Skillup Online
 * Business Intelligence Fundamentals from Simplilearn
