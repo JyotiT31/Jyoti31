@@ -38,12 +38,6 @@ I’m open to **collaborative opportunities**, **internships**, and **full-time 
 * SQL Certification from Simplilearn
 * Full Stack Development (Web Technologies ,PHP & SQL) from Vissicomp Technology Pvt Ltd
 
----
-
-## 📘 **In Progress**
-
-* 🧩 Certification in **Techmaster Program in Data Analytics** *(coming soon!)*
-* 🧩 **Microsoft Certification in Power BI**
 
 ---
 
