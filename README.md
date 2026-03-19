@@ -28,7 +28,7 @@ I’m open to **collaborative opportunities**, **internships**, and **full-time 
 ## 📊**Featured Projects**
 
 1. Bank Customer Churn Analysis(Power BI & Python)
-  * Analyzed 10000+ customer records to identify churn drivers
+  * Analyzed 10,000+ customer records to identify churn drivers
   * Performed EDA using numpy & pandas
   * Created dashboard showing churn by demographics and product usage
   * 🔗 Project Link
