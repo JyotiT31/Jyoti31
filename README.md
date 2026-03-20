@@ -1,56 +1,89 @@
+📊 BANK CUSTOMER CHURN ANALYSIS — PYTHON & POWER BI
+A Data Analytics Project by Rushikesh Patil
+A complete end-to-end analysis of customer churn using Python, Exploratory Data Analysis (EDA), and Power BI. This project identifies key factors that influence customer churn and visualizes them using interactive dashboards.
 
-# 👨‍💻 **Jyoti Tiwari – GitHub Profile Overview**
+📁 Project Structure
+📦 Bank-Customer-Churn-Analysis
+│
+├── Churn_Analysis.ipynb                             # Python EDA Notebook  
+├── Customer-Churn-Records.csv                       # Dataset  
+├── Customer_Churn_Dashboard.pbix                    # Power BI dashboard  
+├── Bank_Customer_Churn_Analysis_Report.pdf          # Final project report
+└── README.md                                        # Documentation
+🧠 Objective
+Analyze 10,000 bank customers to identify patterns leading to churn and derive business-ready insights.
 
-Welcome to my GitHub! I’m **Jyoti Tiwari** (https://github.com/JyotiT31), a **Data Analyst** and a **passionate, persistent learner** at the intersection of **Analytics** and **Development**.
+🛠 Tools & Technologies
+Python: Pandas, NumPy, Seaborn, Matplotlib
+Power BI: Dashboarding & KPIs
+Jupyter Notebook
+Excel / CSV
+GitHub
+🔍 Dataset Overview
+Includes fields such as:
 
----
+Credit Score
+Geography
+Age
+Gender
+Balance
+Tenure
+Number of Products
+Activity Level
+Salary
+Churn (Target)
+Rows: 10,000 Task: Binary Classification (Churn / Not Churn)
 
-## 📁 **Overview**
+📈 Key Insights
+1️⃣ Geography
+🇩🇪 Germany has the highest churn (32.44%)
+2️⃣ Age
+40–49 age group churns the most
+3️⃣ Product Usage
+Customers with 1 product churn disproportionately
+4️⃣ Activity
+Inactive customers have a significantly higher churn rate
+5️⃣ High Balance Churn
+Even high-value customers (> ₹100K balance) churn at a notable rate
+🧪 EDA Steps Performed
+Missing value analysis
+Summary statistics
+Churn distribution
+Churn by geography, gender, age group
+Correlation heatmap
+Feature engineering
+Export clean dataset for Power BI
+📊 Power BI Dashboard
+Includes:
 
-I’m deeply interested in **Data Analytics** ****. My work focuses on:
+Churn Rate KPI
+Geography-wise churn
+Customer segmentation
+Product usage patterns
+Activity vs Churn
+Persona profiling
+📁 Files Included
+File	Purpose
+Churn_Analysis.ipynb	Python EDA
+customer_churn.csv	Dataset
+customer_churn_cleaned.csv	BI-ready data
+Customer_Churn_Dashboard.pbix	Power BI dashboard
+Report.pdf	Full analysis report
+images/	Visuals
+🚀 How to Run
+Python:
 
-* 🧹 **Data Cleaning** & **Transformation (Pandas and Numpy)**
-* 📈 **Data Visualization** **(Matplotlib,Seaborn,Plotly)**
-* 🔍️ **Exploratory Data Analysis(EDA)** for identifying trends and outliers.
+pip install pandas numpy matplotlib seaborn
+jupyter notebook
+Open Churn_Analysis.ipynb.
 
+Power BI: Open .pbix file and load the cleaned CSV.
 
----
+👤 Author
+Rushikesh Vilas Patil Data Analyst — Python | SQL | Power BI
 
-## 📬 **Let’s Connect**
+📧 Email: rushiart77492@gmail.com
 
-I’m open to **collaborative opportunities**, **internships**, and **full-time roles** in **Data Analytics** domains.
+🔗 GitHub: github.com/RusshikeshPatil
 
-🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/jyoti-tiwari31)
-🌟 **Explore my repositories:** [GitHub Profile](https://github.com/JyotiT31)
-
----
-
-## 📊**Featured Projects**
-
-1. **Bank Customer Churn Analysis(Power BI & Python)**
-  * Analyzed 10,000+ customer records to identify churn drivers
-  * Performed EDA using numpy & pandas
-  * Created dashboard showing churn by demographics and product usage
-  * 🔗 [Project Link](Banking CRM Dashboard.pbix)
-
-### ✅ **Core Certifications**
-
-* **Microsoft Certified: Power BI Data Analyst Associate**
-*  Techmaster Certificate Program in Data Analytics from Skillup Online
-* Deloitte Australia - Data Analytics Job Simulation*
-* Big Data 101 from Skillup Online
-* Business Intelligence Fundamentals from Simplilearn
-* PostgreSQL Fundamentals from Simplilearn
-* SQL Certification from Simplilearn
-* Full Stack Development (Web Technologies ,PHP & SQL) from Vissicomp Technology Pvt Ltd
-
-
----
-
-### 🌠 *“Learning never exhausts the mind – it only expands it.”*
-
----
-
-
-* Add **badges** (e.g., for LinkedIn, Python, TensorFlow, Azure, etc.)?
-* Include a **banner or profile image suggestion** for the top of the README?
+💼 LinkedIn: linkedin.com/in/russhikesh-patil
