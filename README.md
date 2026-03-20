@@ -31,7 +31,7 @@ I’m open to **collaborative opportunities**, **internships**, and **full-time 
   * Analyzed 10,000+ customer records to identify churn drivers
   * Performed EDA using numpy & pandas
   * Created dashboard showing churn by demographics and product usage
-  * 🔗 [Project Link](Banking CRM Dashboard.pbix)
+  * 🔗 [Project Link](https://github.com/JyotiT31/Jyoti31/tree/Banking-CRM-Dashboard)
 
 ### ✅ **Core Certifications**
 
