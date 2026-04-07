@@ -85,6 +85,6 @@ Jyoti Tiwari Data Analyst — Python | SQL | Power BI
 
 📧 Email: jyotitiwari760@gmail.com
 
-🔗 GitHub: github.com/JyotiT31/Jyoti31
+🔗 GitHub: (https://github.com/JyotiT31)
 
-💼 LinkedIn: linkedin.com/in/jyoti-tiwari31
+💼 LinkedIn: (https://www.linkedin.com/in/jyoti-tiwari31)
