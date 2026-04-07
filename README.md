@@ -80,7 +80,7 @@ Open Churn_Analysis.ipynb.
 Power BI: Open .pbix file and load the cleaned CSV.
 
 👤 Author
-Rushikesh Vilas Patil Data Analyst — Python | SQL | Power BI
+Jyoti Tiwari Data Analyst — Python | SQL | Power BI
 
 📧 Email: rushiart77492@gmail.com
 
