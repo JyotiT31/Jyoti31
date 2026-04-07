@@ -83,8 +83,8 @@ Power BI: Open .pbix file and load the cleaned CSV.
 👤 Author
 Jyoti Tiwari Data Analyst — Python | SQL | Power BI
 
-📧 Email: rushiart77492@gmail.com
+📧 Email: jyotitiwari760@gmail.com
 
-🔗 GitHub: github.com/RusshikeshPatil
+🔗 GitHub: github.com/JyotiT31/Jyoti31
 
-💼 LinkedIn: linkedin.com/in/russhikesh-patil
+💼 LinkedIn: linkedin.com/in/jyoti-tiwari31
