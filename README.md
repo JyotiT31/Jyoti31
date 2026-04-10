@@ -45,11 +45,6 @@ I’m open to **collaborative opportunities**, **internships**, and **full-time 
 * Full Stack Development (Web Technologies ,PHP & SQL) from Vissicomp Technology Pvt Ltd
 
 
----
-
-### 🌠 *“Learning never exhausts the mind – it only expands it.”*
-
----
 
 
 * Add **badges** (e.g., for LinkedIn, Python, TensorFlow, Azure, etc.)?
